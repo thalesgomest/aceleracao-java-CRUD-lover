@@ -1,6 +1,6 @@
 # Exercício: CRUD lover
 
-## Métodos HTTP Desenvolvidos: Delete e Put
+### Métodos HTTP Desenvolvidos: Delete e Put
 
 Implementar o listar, deletar e atualizar do exercício [Modela Ai](https://github.com/thalesgomest/aceleracao-java-modela-ai), também adicionando as devidas validações através da biblioteca `Validate I/O`.
 
