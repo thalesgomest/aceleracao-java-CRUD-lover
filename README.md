@@ -16,9 +16,7 @@ Implementar o listar, deletar e atualizar do exercício [Modela Ai](https://gith
 }
 ```
 
--   [x] As informações serão salvas no banco de dados instanciado na memória enquanto a aplicação estiver rodando.
-
-Para obter os dados armazenados faça um GET para a seguinte rota `http://localhost:8080/api/car`, obtendo:
+-   [x] As informações serão salvas no banco de dados instanciado na memória enquanto a aplicação estiver rodando. Para obter os dados armazenados faça um GET para a seguinte rota `http://localhost:8080/api/car`, obtendo:
 
 ```JSON
 {
