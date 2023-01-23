@@ -20,7 +20,7 @@ Implementar o listar, deletar e atualizar do exercício [Modela Ai](https://gith
 
 ```JSON
 {
-    "id": 1,
+    	"id": 1,
 	"modelo": "Fiat Argo 1.3",
 	"fabricante": "Fiat",
 	"dataFabricacao": "10/02/2006",
